@@ -114,7 +114,7 @@ Incluyen:
 
 El documento final está en:
 
-    informe/informe_evaluacion_rendimiento.pdf
+    Docs/Taller_de_rendimiento.pdf
 
 Incluye:
 
