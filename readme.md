@@ -24,12 +24,13 @@ El objetivo del proyecto es comparar el rendimiento de diferentes implementacion
 │       ├── mxmPosixFxC.c
 │       └── mxmPosixFxT.c
 └── excel
-    ├── AnalisisRendimientoJellyfish.xlsx
-    ├── AnalisisRendimientoNoble1A.xlsx
-    ├── AnalisisRendimientoNoble2M.xlsx
-    └── AnalisisRendimientoPop_os.xlsx
-
-
+|    ├── AnalisisRendimientoJellyfish.xlsx
+|    ├── AnalisisRendimientoNoble1A.xlsx
+|    ├── AnalisisRendimientoNoble2M.xlsx
+|    └── AnalisisRendimientoPop_os.xlsx
+|
+├── Docs
+     └── Taller_de_rendimiento.pdf
 ---
 ```
 
