@@ -9,6 +9,8 @@ El objetivo del proyecto es comparar el rendimiento de diferentes implementacion
 ## 📁 Estructura del repositorio
 
 ```text
+├── Docs
+│   └── Taller_de_rendimiento.pdf
 ├── evalRend2610
 │   ├── bin
 │   │   ├── mxmForkFxC
@@ -20,17 +22,19 @@ El objetivo del proyecto es comparar el rendimiento de diferentes implementacion
 │   └── src
 │       ├── moduloMM.c
 │       ├── moduloMM.h
+│       ├── mxmForkFxC.c
 │       ├── mxmForkFxT.c
 │       ├── mxmPosixFxC.c
 │       └── mxmPosixFxT.c
-└── excel
-|    ├── AnalisisRendimientoJellyfish.xlsx
-|    ├── AnalisisRendimientoNoble1A.xlsx
-|    ├── AnalisisRendimientoNoble2M.xlsx
-|    └── AnalisisRendimientoPop_os.xlsx
-|
-├── Docs
-     └── Taller_de_rendimiento.pdf
+├── excel
+│   ├── AnalisisRendimientoJellyfish.xlsx
+│   ├── AnalisisRendimientoNoble1A.xlsx
+│   ├── AnalisisRendimientoNoble2M.xlsx
+│   ├── AnalisisRendimientoPop_os.xlsx
+│   └── EspecificacionesEquiposUtilizados.xlsx
+├── LICENSE
+└── readme.md
+
 ---
 ```
 

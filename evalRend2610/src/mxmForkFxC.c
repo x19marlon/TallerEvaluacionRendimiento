@@ -1,7 +1,7 @@
 
 /*#######################################################################################
 #* Fecha:27/04/2026
-#* Autor: Maria Alejandra Rodriguez
+#* Autor: Marlon Garcia
 #* Programa:
 #*      Multiplicación de Matrices algoritmo clásico
 #* Versión:

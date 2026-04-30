@@ -1,6 +1,6 @@
 /*#########################################################################################
  #* Fecha:27/04/2026
- #* Autor: Maria Alejandra Rodriguez
+#* Autor: Marlon Garcia
  #* Modulo:
  #       -Modulo Multiplicacion de matrices
  #* Versión:
